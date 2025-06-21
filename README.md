@@ -13,7 +13,7 @@ components:
 microbiome data<br/>
 2. MetaboAnalyst.ca for metabolomics data profiling<br/>
 3. MicrobiomeAnalyst.ca for microbiome data profiling<br/>
-4. MicrobiomeNet.com for functional interpretation and system biology.<br/>
+4. MicrobiomeAnalyst.ca and MicrobiomeNet.com for multiomics integration and system biology.<br/>
 
 <br/>
 The workshop will contain three components - lecture (~60 min), live demos & hands-on practices (~2.5 hours),
