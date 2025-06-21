@@ -9,13 +9,13 @@ tools that have been developed to comprehensively address this gap. The tool sui
 components:
 
 <br/>
-* Raw data processing based on OptiLCMS / Asari for metabolomics, and DADA2 / FunTaxSeq for
+1. Raw data processing based on OptiLCMS / Asari for metabolomics, and DADA2 / FunTaxSeq for
 microbiome data<br/>
-* MetaboAnalyst.ca for metabolomics data profiling<br/>
-* MicrobiomeAnalyst.ca for microbiome data profiling<br/>
-* MicrobiomeNet.com for functional interpretation and system biology.<br/>
+2. MetaboAnalyst.ca for metabolomics data profiling<br/>
+3. MicrobiomeAnalyst.ca for microbiome data profiling<br/>
+4. MicrobiomeNet.com for functional interpretation and system biology.<br/>
 
-<br/><br/>
+<br/>
 The workshop will contain three components - lecture (~60 min), live demos & hands-on practices (~2.5 hours),
 and summary & discussion (~30 min). During the live demo, we will illustrate common workflows through three
 well-curated example datasets for three typical study designs. Users are expected to bring their laptops for
@@ -31,8 +31,6 @@ step-by-step instructions for common tasks.
 
 # Learning Outcomes
  Be able to comfortably perform common data analysis tasks in microbiome metabolomics studies.
-
-
 
 
 Details for each workflow are below. 
