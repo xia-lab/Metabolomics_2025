@@ -65,9 +65,7 @@ The tutorial of this module is available [here](https://api2.xialab.ca/api/downl
 
 ## 4) Raw sequencing data processing (16s)
 
-Some sentences
-
-
+The implementation of **Raw Data Processing module** in MicrobiomeAnalyst（https://www.microbiomeanalyst.ca/) is based on the well-established DADA2 pipeline. The aim is to generate taxonomy annotation and ASV abundance table from maker gene sequencing. We will have a quick demo on how to use MicrobiomeAnalyst to do the raw data processing online. The example sequecing data is obtained from The Inflammatory Bowel Disease Multi'omics Database.
 
 <br/>
 
