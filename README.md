@@ -41,8 +41,8 @@ Details for each workflow are below.
 
 # Data for this workshop
 
-- Metabolomics [LC-MS data](https://drive.google.com/drive/folders/1n5DD2RJmrY_UbXcV5zcCBULSYaSWyQ4B?usp=sharing);
-- Microbiome [16s sequencing data]();
+- Metabolomics [LC-MS data](https://drive.google.com/drive/folders/1aZ5g0sWYITDUZLk8QZQueSdIeRigHodJ?usp=drive_link);
+- Microbiome [16s sequencing data](https://drive.google.com/drive/folders/1HbCeMeh1CIYWyCaz9QelxQdupwMMLOyP?usp=drive_link);
 
 
 # Slides for this workshop
