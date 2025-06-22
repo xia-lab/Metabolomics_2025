@@ -47,7 +47,7 @@ Details for each workflow are below.
 
 # Slides for this workshop
 
-- Please download it [Here](https://github.com/xia-lab/Metabolomics_2024/blob/main/slides/1_General_intro_MetaboAnalyst.pdf).
+- Please download it [Here](https://github.com/xia-lab/Metabolomics_2025/blob/main/Metabolomics2025_Workshop_Xia.pdf).
 
 <br/>
 
