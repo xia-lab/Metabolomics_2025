@@ -65,19 +65,23 @@ The tutorial of this module is available [here](https://api2.xialab.ca/api/downl
 
 ## 4) Raw sequencing data processing (16s)
 
-The implementation of **Raw Data Processing module** in MicrobiomeAnalyst（https://www.microbiomeanalyst.ca/) is based on the well-established DADA2 pipeline. The aim is to generate taxonomy annotation and ASV abundance table from maker gene sequencing. We will have a quick demo on how to use MicrobiomeAnalyst to do the raw data processing online. The example sequecing data is obtained from The Inflammatory Bowel Disease Multi'omics Database.
+The implementation of **Raw Data Processing module** in MicrobiomeAnalyst（https://www.microbiomeanalyst.ca/) is based on the well-established DADA2 pipeline. The aim is to generate taxonomy annotation and ASV abundance table from maker gene sequencing. We will have a quick demo on how to use MicrobiomeAnalyst to do the raw data processing online. The example sequecing data is obtained from The Inflammatory Bowel Disease Multi'omics Database and available [here](https://drive.google.com/drive/folders/1HbCeMeh1CIYWyCaz9QelxQdupwMMLOyP?usp=drive_link).
+The tutorial of this module is available at [**Performing raw data processing**](https://www.microbiomeanalyst.ca/MicrobiomeAnalyst/docs/Resources.xhtml) for further reference.
 
 <br/>
 
 ## 3) Statistical analysis
 
-Some sentences
-
+The **Marker Data Profiling module** in MicrobiomeAnalyst（https://www.microbiomeanalyst.ca/) support different types of analyses on maker gene count table including: visual exploration through interactive stack barplot and pie chart, rarefaction curve and phylogenetic tree, community profiling through diversity analysis, clustering and correlation through interactive heatmaps, dendrogram and correlation network, comparison and classification through multi-factor comparision analysis, LEfSe and Random Forest, as well as functional prediction through PICRUSt, Tax4Fun and Tax4Fun2. In this part, we will have a demo on the main function to understand the microbiome data from a real study. 
+Example data is available [here]();
+The tutorial of this module is available at [**(Version 2.0)Performing 16S rRNA maker-gene data profiling (MDP)**](https://www.microbiomeanalyst.ca/MicrobiomeAnalyst/docs/Resources.xhtml) for further reference.
 <br/>
 
 ## 4) Multi-omics integration
 
-Some sentences
+The aim of this section is to use **Microbiome Metabolomics Profiling** in [MicrobiomeAnalyst] and [MicrobiomeNet](https://www.microbiomenet.com/) to do the intergrative analysis and interaction exporation accross microbiome and metabolomics data. We will have a demo on how to perform the analysis online and a hands-
+
+The tutorial of this module is available at [**Performing microbiome metabolomics analysis**](https://www.microbiomeanalyst.ca/MicrobiomeAnalyst/docs/Resources.xhtml) for further reference.
 
 
 
