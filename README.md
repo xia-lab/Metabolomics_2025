@@ -47,7 +47,7 @@ Details for each workflow are below.
 
 # Slides for this workshop
 
-- Please download it [Here](https://github.com/xia-lab/Metabolomics_2025/blob/main/Metabolomics2025_Workshop_Xia.pdf).
+- Please download it through [github](https://github.com/xia-lab/Metabolomics_2025/blob/main/Metabolomics2025_Workshop_Xia.pdf) or [google drive](https://drive.google.com/file/d/1MGAs1n6Bq0ZQ2jpvkqd-0zzBIqHivsdi/view?usp=drive_link).
 
 <br/>
 
